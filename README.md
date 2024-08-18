@@ -4,7 +4,7 @@ Welcome to a dynamic corner of GitHub, where we simplify the process of converti
 
 ## How to Get Started
 
-1. **Clone this repository**: `git clone https://github.com/aditya-xq/streamline.git`
+1. **Clone this repository**: `git clone https://github.com/insanex11/streamline.git`
 2. **Navigate into the folder**: `cd streamline`
 3. **Install the necessary potions... ahem, I mean dependencies**: Check out our `requirements.txt` or simply wave your magic wand (or, you know, run `pip install -r requirements.txt`).
 4. **Set up your environment**: Rename `.env.example` to `.env` and fill it with your secrets (not really, just your desired download folder).
@@ -12,7 +12,7 @@ To get your environment set up and running with the Streamline project, please f
 
 1. **Clone the Repository**: Begin by cloning the repository to your local machine. Open your terminal (or anaconda prompt) and execute the following command:
    ```
-   git clone https://github.com/aditya-xq/streamline.git
+   git clone https://github.com/insanex11/streamline.git
    ```
    This command downloads all the project files to a folder named `streamline` on your computer.
 
